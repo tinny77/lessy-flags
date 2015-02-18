@@ -64,10 +64,10 @@ $flag-y: 15px !default;
 // Cross browser inline-block
 .flaggy-block {
 	display: -moz-inline-stack;
-  display: inline-block;
-  vertical-align: top;
-  zoom: 1;
-  *display: inline;
+	display: inline-block;
+	vertical-align: top;
+	zoom: 1;
+	*display: inline;
 }
 
 // Animations
