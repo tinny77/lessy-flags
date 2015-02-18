@@ -10,7 +10,7 @@ To use Sassy Flags just add an element to your exsiting code, then give it the c
 ```
 
 #### Support
-I will be adding more flags over time, currently I have made flags for:
+I will be adding more flags over time, so far I have done:
 
   * AE (United Arab Emirates)
   * BR (Brazil)
