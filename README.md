@@ -9,5 +9,22 @@ To use Sassy Flags just add an element to your exsiting code, then give it the c
 <span class="flag gb"></span>
 ```
 
+#### Support
+I will be adding more flags over time, currently I have made flags for:
+
+  * AE (United Arab Emirates)
+  * BR (Brazil)
+  * CH (Switzerland)
+  * DE (Germany)
+  * ES (Spain)
+  * GB (United Kingdom)
+  * JP (Japan)
+  * RU (Russia)
+  * SE (Sweden)
+  * SO (Somalia)
+  * UA (Ukraine)
+  * US (United States of America)
+  * VN (Veitnam)
+
 #### Thanks
 I will add more flags over time, if there are any you really want then let me know on [Twitter](http://www.twitter.com/_dthms).
