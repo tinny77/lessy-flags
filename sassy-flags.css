@@ -1,0 +1,62 @@
+/*
+	SassyFlags
+
+	Made by Daniel Thomas
+	Share and Enjoy
+*/
+.flag {
+  width: 25px;
+  height: 15px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  -webkit-animation: flag-loader linear infinite 1.5s;
+  animation: flag-loader linear infinite 1.5s; }
+  .flag.AE, .flag.ae {
+    background-image: url("https://s3-us-west-2.amazonaws.com/layerful-flags/AE+(United+Arab+Emirates).svg"); }
+  .flag.BR, .flag.br {
+    background-image: url("https://s3-us-west-2.amazonaws.com/layerful-flags/BR+(Brazil).svg"); }
+  .flag.CH, .flag.ch {
+    background-image: url("https://s3-us-west-2.amazonaws.com/layerful-flags/CH+(Switzerland).svg"); }
+  .flag.DE, .flag.de {
+    background-image: url("https://s3-us-west-2.amazonaws.com/layerful-flags/DE+(Germany).svg"); }
+  .flag.ES, .flag.es {
+    background-image: url("https://s3-us-west-2.amazonaws.com/layerful-flags/ES+(Spain).svg"); }
+  .flag.GB, .flag.gb {
+    background-image: url("https://s3-us-west-2.amazonaws.com/layerful-flags/GB+(United+Kingdom).svg"); }
+  .flag.JP, .flag.jp {
+    background-image: url("https://s3-us-west-2.amazonaws.com/layerful-flags/JP+(Japan).svg"); }
+  .flag.RU, .flag.ru {
+    background-image: url("https://s3-us-west-2.amazonaws.com/layerful-flags/RU+(Russia).svg"); }
+  .flag.SE, .flag.se {
+    background-image: url("https://s3-us-west-2.amazonaws.com/layerful-flags/SE+(Sweden).svg"); }
+  .flag.SO, .flag.so {
+    background-image: url("https://s3-us-west-2.amazonaws.com/layerful-flags/SO+(Somalia).svg"); }
+  .flag.UA, .flag.ua {
+    background-image: url("https://s3-us-west-2.amazonaws.com/layerful-flags/UA+(Ukraine).svg"); }
+  .flag.US, .flag.us {
+    background-image: url("https://s3-us-west-2.amazonaws.com/layerful-flags/US+(United+States+of+America).svg"); }
+  .flag.VN, .flag.vn {
+    background-image: url("https://s3-us-west-2.amazonaws.com/layerful-flags/VN+(Vietnam).svg"); }
+
+.flaggy-block, .flag {
+  display: -moz-inline-stack;
+  display: inline-block;
+  vertical-align: top;
+  zoom: 1;
+  *display: inline; }
+
+@-webkit-keyframes flag-loader {
+  0% {
+    background-color: #f5f5f5; }
+  50% {
+    background-color: #e7e7e7; }
+  100% {
+    background-color: #fff; } }
+@keyframes flag-loader {
+  0% {
+    background-color: #f5f5f5; }
+  50% {
+    background-color: #e7e7e7; }
+  100% {
+    background-color: #fff; } }
