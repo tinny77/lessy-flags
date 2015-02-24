@@ -14,8 +14,10 @@ I will be adding more flags over time, so far I have done:
 
   * AT Austria
   * BE Belgium
+  * BZ Brazil
   * CH Switzerland
   * CZ Czech Republic
+  * CL Chile
   * DE Germany
   * DK Denmark
   * ES Spain
@@ -33,6 +35,9 @@ I will be adding more flags over time, so far I have done:
   * PL Poland
   * RU Russia
   * SW Sweden
+  * SV El Salavdor
+  * PE Peru
+  * PR Puerto Rico
   * US United States of America
 
 #### Thanks
