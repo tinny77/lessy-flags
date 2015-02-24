@@ -70,11 +70,11 @@ $flag-y: 15px !default;
 @-webkit-keyframes flag-loader {
   0%   {background-color: #f5f5f5;}
   50%  {background-color: #e7e7e7;}
-  100% {background-color: #fff;}
+  100% {background-color: #f5f5f5;}
 }
 
 @keyframes flag-loader {
   0%   {background-color: #f5f5f5;}
   50%  {background-color: #e7e7e7;}
-	100% {background-color: #fff;}
+  100% {background-color: #f5f5f5;}
 }
