@@ -57,7 +57,7 @@ $flag-y: 15px !default;
 	@include animation(flag-loader linear infinite 1.5s);
 }
 
-// Cross browser inline-block
+// Cross browser inline-block (damn you css)
 .inline-block {
 	display: -moz-inline-stack;
 	display: inline-block;
