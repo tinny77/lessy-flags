@@ -12,19 +12,28 @@ To use Sassy Flags just add an element to your exsiting code, then give it the c
 #### Support
 I will be adding more flags over time, so far I have done:
 
-  * AE (United Arab Emirates)
-  * BR (Brazil)
-  * CH (Switzerland)
-  * DE (Germany)
-  * ES (Spain)
-  * GB (United Kingdom)
-  * JP (Japan)
-  * RU (Russia)
-  * SE (Sweden)
-  * SO (Somalia)
-  * UA (Ukraine)
-  * US (United States of America)
-  * VN (Veitnam)
+  * AT Austria
+  * BE Belgium
+  * CH Switzerland
+  * CZ Czech Republic
+  * DE Germany
+  * DK Denmark
+  * ES Spain
+  * FI Finland
+  * FR France
+  * GB United Kingdom
+  * HU Hungary
+  * IS Iceland
+  * IT Italy
+  * LT Lithuania
+  * LU Luxembourg
+  * LV Lativa
+  * MT Malta
+  * NO Norway
+  * PL Poland
+  * RU Russia
+  * SW Sweden
+  * US United States of America
 
 #### Thanks
 I will add more flags over time, if there are any you really want then let me know on [Twitter](http://www.twitter.com/_dthms).
