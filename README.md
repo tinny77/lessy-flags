@@ -1,7 +1,7 @@
 ## Lessy Flags
 
 #### Introduction
-Less version of Sassy Flags, a lightweight Sass libary created by Daniel Thomas you can use to display flags on your site. It's super simple but let me go over how to use it below.
+Less version of Sassy Flags, a lightweight Sass libary created by Daniel Thomas you can use to display flags on your site. It's super simple, you can make them any size you want.
 
 #### How to use
 To use Lessy Flags just add an element to your exsiting code, then give it the class of `'flag'`. Now you can look in the `lessy-flags.less` document and find the country code of the flag you want, heres an example for the UK flag:
